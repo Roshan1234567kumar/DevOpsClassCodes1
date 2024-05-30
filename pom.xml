@@ -63,7 +63,6 @@
     <url>https://repo.maven.apache.org/maven2/</url> 
   </pluginRepository> 
 </pluginRepositories>
-
     <dependencies>
         <dependency>
             <groupId>com.vaadin</groupId>
